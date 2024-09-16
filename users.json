@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "username": "user1@example.com",
+        "password": "password123",
+        "course": "Web Development"
+      },
+      {
+        "username": "user2@example.com",
+        "password": "password456",
+        "course": "React"
+      },
+      {
+        "username": "user3@example.com",
+        "password": "xyz",
+        "course": "php"
+      },
+      {
+        "username": "user4@example.com",
+        "password": "abc",
+        "course": "sql"
+      },
+      {
+        "username": "user5@example.com",
+        "password": "qwert",
+        "course": "java"
+      }
+    ]
+  }
+  

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico"> 
+    <title>Sparkinn Novice Solution - Login Page</title>
+    <link rel="stylesheet" href="./css/styles.css">
+
+    <!-- header -->
+	  <!-- Google Web Fonts -->
+	  <link rel="preconnect" href="https://fonts.gstatic.com">
+	  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"> 
+  
+	  <!-- Font Awesome -->
+	  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" rel="stylesheet">
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+  
+	  <!-- Libraries Stylesheet -->
+	  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  
+	  <!-- Customized Bootstrap Stylesheet -->
+	  <link href="css/style.css" rel="stylesheet">
+  
+		<!-- AOS CSS -->
+		<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+		<!-- sweet alert -->
+		<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	 
+  
+	  <link rel="stylesheet" href="./css/style2.css">
+	  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    
+    <h2 class="text-center pt-5">Transform Your Future with Our Courses!</h2>
+    <div class="form-section">
+        <form class="form" id="loginForm" method="post">
+            <i class="fa-solid fa-arrow-right-to-bracket"></i>
+            <p class="form-title">Sign In</p>
+            <div class="input-container">
+                <input type="email" id="username" name="username" placeholder="Enter Username" required>
+            </div>
+            <div class="input-container">
+                <input type="password" id="password" name="password" placeholder="Enter password" required>
+            </div>
+            <div class="passControl pl-1">
+            
+            <i class="fa-solid fa-eye" id="showPass" onclick="showPass()"></i>
+            <i class="fa-solid fa-eye-slash" id="hidePass" onclick="hidePass()"></i>
+            </div>
+            <button type="submit" class="submit" style="cursor: pointer;">Sign in</button>
+            
+        </form>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
