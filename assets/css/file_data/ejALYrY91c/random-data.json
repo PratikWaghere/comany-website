@@ -1,0 +1,450 @@
+{
+    "users": [
+      {
+        "username": "AditiT@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "VishwajeetM@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "PayalJ@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "GayatriG@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },     
+      {
+        "username": "ChetanJ@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },     
+      {
+        "username": "SujalG@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },      
+      {
+        "username": "SanskrutiM@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },      
+      {
+        "username": "KaveriB@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },      
+      {
+        "username": "PoonamP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },      
+      {
+        "username": "RiteshD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "PrachiP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },      
+      {
+        "username": "BhaktiK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },     
+      {
+        "username": "MaheshR@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },     
+      {
+        "username": "NehaP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },      
+      {
+        "username": "VivekK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },     
+      {
+        "username": "PrachiN@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "ChaitanyaP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "SiddhiA@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "ZuveriaS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "MayuriJ@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "RushikeshB@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "DnyaneshwariG@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "TanujaP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "SanketK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "NehaD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "SaloniP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "VaibhavT@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "PranjalM@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "Web Development"
+      },
+      {
+        "username": "MayuriD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "JanhaviJ@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "ChetanP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "ShrutiK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "KeshavD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "SarthakK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "AnkitaD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "ShubhamR@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "HarshadaK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "RutujaK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "React"
+      },
+      {
+        "username": "PoojaT@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "php"
+      },
+      {
+        "username": "MrunmayeeS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "NishidhK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "MayuriP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "SahilB@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "MayuriN@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "SanikaK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "OmS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "DiptiK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "SnehalT@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "HarshadaP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "SakshiP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "sql"
+      },
+      {
+        "username": "AnushkaU@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "GauriH@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "JayG@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "AshwiniH@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "PrathameshG@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "SanjanaM@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "IshwarB@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "DeveshriN@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "MugdhaN@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "ManasviP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "SagarK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "RutikaG@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "Vaishnavi@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "SakshiD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "NayanK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "JayashriK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "PoojaJ@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "SiddhiS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "PornimaR@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "SohamD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "LalitaC@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "TejasN@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "AkshadaD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "DhanashreeB@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "NikitaK@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "KalyaniC@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "HarshadaS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "KajalP@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "AishwaryaS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "DikshaS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "ShrutiJ@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "HarshaliS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "VaishnaviS@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "PayalD@sparkinn.com",
+        "password": "Sparkinn#123",
+        "course": "java"
+      },
+      {
+        "username": "java@123.com",
+        "password": "admin",
+        "course": "java"
+      },
+      {
+        "username": "react@123.com",
+        "password": "admin",
+        "course": "React"
+      },
+      {
+        "username": "sql@123.com",
+        "password": "admin",
+        "course": "sql"
+      },
+      {
+        "username": "php@123.com",
+        "password": "admin",
+        "course": "php"
+      },
+      {
+        "username": "web@123.com",
+        "password": "admin",
+        "course": "Web Development"
+      }      
+    ]
+  }
+  
