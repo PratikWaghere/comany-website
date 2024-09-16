@@ -1,0 +1,29 @@
+.question-container {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+.question-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.correct {
+    color: #28a745;
+    font-weight: bold;
+}
+.wrong {
+    color: #dc3545;
+    font-weight: bold;
+}
+.option-btn {
+    transition: background-color 0.3s, color 0.3s;
+}
+.option-btn:hover {
+    background-color: #f8f9fa;
+    color: #007bff;
+}
+.completed {
+    background-color: #d4edda !important;
+    color: #155724;
+}
